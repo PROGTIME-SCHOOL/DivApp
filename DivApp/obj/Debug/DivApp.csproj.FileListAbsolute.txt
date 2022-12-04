@@ -1,0 +1,8 @@
+C:\Users\viosagmir\source\repos\DivApp\DivApp\bin\Debug\DivApp.exe.config
+C:\Users\viosagmir\source\repos\DivApp\DivApp\bin\Debug\DivApp.exe
+C:\Users\viosagmir\source\repos\DivApp\DivApp\bin\Debug\DivApp.pdb
+C:\Users\viosagmir\source\repos\DivApp\DivApp\obj\Debug\DivApp.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\DivApp\DivApp\obj\Debug\DivApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\viosagmir\source\repos\DivApp\DivApp\obj\Debug\DivApp.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\DivApp\DivApp\obj\Debug\DivApp.exe
+C:\Users\viosagmir\source\repos\DivApp\DivApp\obj\Debug\DivApp.pdb
